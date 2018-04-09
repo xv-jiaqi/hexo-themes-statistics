@@ -21,7 +21,7 @@ Statistics [Hexo](https://hexo.io/) [themes](https://hexo.io/themes/) github rep
 ## Result
 
 
-**[NexT](https://github.com/iissnan/hexo-theme-next) and [Yilia](https://github.com/litten/hexo-theme-yilia) are not included in this report because they are not included in the [official website](https://hexo.io/themes/).**
+<span style="color: red;">**[NexT](https://github.com/iissnan/hexo-theme-next) and [Yilia](https://github.com/litten/hexo-theme-yilia) are not included in this report because they are not included in the [official website](https://hexo.io/themes/).**</span>
 
 
 ```js
